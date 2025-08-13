@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Developer | Learner of C, Java & JavaScript</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ## 📚 Learning Progress
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
 </p>
 
 - 📖 **C Programming:** Writing small programs & improving logic  
@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-ko&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-ko&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-ko&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="Abhishek-ko GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-ko&layout=compact&theme=tokyonight" alt="Abhishek-ko Top Languages" />
 </p>
 
 ---
@@ -53,10 +53,10 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/Abhishek-ko"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:abhishekch2906@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/Abhishek-ko/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-⚡ *Fun fact:* I love experimenting with tech projects and learning new programming languages every day!
+⚡  Fun fact: I’ve spent more time customizing my GitHub README than actually writing code.
