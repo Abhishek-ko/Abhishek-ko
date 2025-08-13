@@ -1,0 +1,25 @@
+name: Update Learning Progress
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:     # Allows manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          TODAY=$(date +"%d %B %Y")
+          sed -i "s/^## 📚 Learning Progress.*/## 📚 Learning Progress\n- 📅 Updated on: $TODAY\n- 📖 **C Programming:** Building logic with small programs\n- 📖 **Java:** Learning OOP concepts step-by-step\n- 📖 **JavaScript:** Understanding DOM and interactive web pages\n- 📖 **HTML/CSS:** Creating responsive and clean layouts\n- 🎯 **Goal:** Make my first full-stack mini project/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git commit -am "Auto-update learning progress"
+          git push
