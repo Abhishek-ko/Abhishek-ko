@@ -36,7 +36,7 @@
 
 - 📖 **C Programming:** Writing small programs & improving logic  
 - 📖 **Java:** Learning OOP concepts step-by-step  
-- 📖 **JavaScript:** Understanding DOM and interactive pages  
+- 📖 **JavaScript:** Understanding DOM and interactive pages 
 - 📖 **HTML/CSS:** Creating responsive and clean layouts  
 - 🎯 **Goal:** Build a full-stack mini project
 
