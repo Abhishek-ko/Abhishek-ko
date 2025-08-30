@@ -47,7 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-ko&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="Abhishek-ko GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-ko&layout=compact&theme=tokyonight" alt="Abhishek-ko Top Languages" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-ko&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 ---
 
 ## 📫 Connect with Me
