@@ -74,7 +74,7 @@
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       </p>
-      <a href="https://github.com/Abhishek-ko/endless-runner">View Repo →</a>
+      <a href="[https://github.com/Abhishek-ko/endless-runner](https://github.com/Abhishek-ko/Canabalt-Clone--2D-endless-runner-)">View Repo →</a>
     </td>
     <td width="50%">
       <h4>🔗 Project Name Two</h4>
